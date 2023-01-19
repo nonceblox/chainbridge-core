@@ -1,8 +1,8 @@
 package account
 
 import (
-	"github.com/VaivalGithub/chainbridge-core/chains/evm/cli/logger"
-	"github.com/VaivalGithub/chainbridge-core/crypto/secp256k1"
+	"github.com/nonceblox/chainbridge-core/chains/evm/cli/logger"
+	"github.com/nonceblox/chainbridge-core/crypto/secp256k1"
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 )

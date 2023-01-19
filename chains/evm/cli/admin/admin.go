@@ -3,7 +3,7 @@ package admin
 import (
 	"fmt"
 
-	"github.com/VaivalGithub/chainbridge-core/chains/evm/cli/flags"
+	"github.com/nonceblox/chainbridge-core/chains/evm/cli/flags"
 	"github.com/spf13/cobra"
 )
 

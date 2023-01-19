@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/url"
 
-	"github.com/VaivalGithub/chainbridge-core/relayer/message"
+	"github.com/nonceblox/chainbridge-core/relayer/message"
 	"github.com/rs/zerolog/log"
 	"go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp"
 )

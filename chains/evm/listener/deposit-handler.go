@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/VaivalGithub/chainbridge-core/relayer/message"
-	"github.com/VaivalGithub/chainbridge-core/types"
+	"github.com/nonceblox/chainbridge-core/relayer/message"
+	"github.com/nonceblox/chainbridge-core/types"
 	"github.com/rs/zerolog/log"
 
 	"github.com/ethereum/go-ethereum/common"

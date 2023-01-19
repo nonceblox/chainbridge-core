@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls/consts"
+	"github.com/nonceblox/chainbridge-core/chains/evm/calls/consts"
 	"github.com/ethereum/go-ethereum/accounts/abi"
 	"github.com/ethereum/go-ethereum/common"
 	ethTypes "github.com/ethereum/go-ethereum/core/types"

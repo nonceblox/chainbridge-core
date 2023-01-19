@@ -8,9 +8,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/VaivalGithub/chainbridge-core/config/chain"
-	"github.com/VaivalGithub/chainbridge-core/relayer/message"
-	"github.com/VaivalGithub/chainbridge-core/store"
+	"github.com/nonceblox/chainbridge-core/config/chain"
+	"github.com/nonceblox/chainbridge-core/relayer/message"
+	"github.com/nonceblox/chainbridge-core/store"
 
 	"github.com/rs/zerolog/log"
 )

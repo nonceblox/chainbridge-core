@@ -6,7 +6,7 @@ package message
 import (
 	"math/big"
 
-	"github.com/VaivalGithub/chainbridge-core/types"
+	"github.com/nonceblox/chainbridge-core/types"
 	"github.com/ethereum/go-ethereum/common"
 )
 

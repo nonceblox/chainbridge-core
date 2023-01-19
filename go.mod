@@ -1,4 +1,4 @@
-module github.com/VaivalGithub/chainbridge-core
+module github.com/nonceblox/chainbridge-core
 
 go 1.17
 

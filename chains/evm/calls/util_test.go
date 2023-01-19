@@ -1,12 +1,12 @@
 package calls_test
 
 import (
-	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls"
-	mock_calls "github.com/VaivalGithub/chainbridge-core/chains/evm/calls/mock"
+	"github.com/nonceblox/chainbridge-core/chains/evm/calls"
+	mock_calls "github.com/nonceblox/chainbridge-core/chains/evm/calls/mock"
 	"math/big"
 	"testing"
 
-	"github.com/VaivalGithub/chainbridge-core/crypto/secp256k1"
+	"github.com/nonceblox/chainbridge-core/crypto/secp256k1"
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"

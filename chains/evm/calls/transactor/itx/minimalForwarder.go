@@ -5,9 +5,9 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls/contracts/forwarder"
-	"github.com/VaivalGithub/chainbridge-core/chains/evm/calls/transactor"
-	"github.com/VaivalGithub/chainbridge-core/crypto/secp256k1"
+	"github.com/nonceblox/chainbridge-core/chains/evm/calls/contracts/forwarder"
+	"github.com/nonceblox/chainbridge-core/chains/evm/calls/transactor"
+	"github.com/nonceblox/chainbridge-core/crypto/secp256k1"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"

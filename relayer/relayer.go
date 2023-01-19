@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/VaivalGithub/chainbridge-core/relayer/message"
+	"github.com/nonceblox/chainbridge-core/relayer/message"
 	"github.com/rs/zerolog/log"
 )
 

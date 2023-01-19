@@ -3,6 +3,7 @@ module github.com/nonceblox/chainbridge-core
 go 1.17
 
 require (
+	github.com/ChainSafe/chainbridge-core v0.3.0
 	github.com/centrifuge/go-substrate-rpc-client v2.0.0+incompatible
 	github.com/creasty/defaults v1.6.0
 	github.com/ethereum/go-ethereum v1.10.12
@@ -13,7 +14,6 @@ require (
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.9.0
-	github.com/status-im/keycard-go v0.0.0-20211004132608-c32310e39b86
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric v0.24.0
@@ -24,6 +24,8 @@ require (
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
 )
+
+require github.com/status-im/keycard-go v0.0.0-20211004132608-c32310e39b86 // indirect
 
 require (
 	github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 // indirect
